@@ -33,7 +33,7 @@
 	font-size: 13px;
 }
 .user-nav ul li+li{
-	background: url(../images/pipe-sign.png) 0 50%;
+	background: url("../images/bar.png") 0 50%;
 	background-repeat:no-repeat;
 }
 .usernav ul:last-child{
@@ -172,7 +172,7 @@
 }
 
 .post-info ul li+li{
-	background: url(../images/pipe-sign.png) 0 50%;
+	background: url("../images/bar.png") 0 50%;
 	background-repeat:no-repeat;
 }
 
@@ -193,7 +193,11 @@
 	color: #309db2;
 }
 .topicbox-invite{
-    color:  #b22222
+    color:  #f82222
+}
+.t-clickblue{
+    color:#309db2;
+    font-weight: bold;
 }
 .entry{
 	font-size: 11px;
